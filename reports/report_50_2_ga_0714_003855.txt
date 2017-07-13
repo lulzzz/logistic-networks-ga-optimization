@@ -1,0 +1,35 @@
+topologies/2_100_a.mat
+
+Generations
+813/5000 (break: 500)
+Step range
+10
+Computing time
+89.346232
+Holding cost
+111935 -> 14793
+Satisfied rate
+0.990367
+-> Genetic algorithm parameters
+Alpha
+10.000000
+Beta
+40.000000
+Fitness
+1.164529
+Generation size
+10.000000
+Mutation probability
+0.010000
+Result generation number
+313.000000
+Reference stock levels
+From To
+2112		836 
+1180		565 
+417		265 
+Magic factors
+From To
+2.798387e+00		-9.768120e-01 
+3.096407e+00		-1.131686e-01 
+2.712240e+00		9.194973e-01 
